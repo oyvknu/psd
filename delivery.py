@@ -2,7 +2,7 @@ import random
 
 """ Random Numbers """
 class RandomNumbers():
-
+"""This is randomnumber class"""
     def __init__():
         pass
 
