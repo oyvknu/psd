@@ -1,5 +1,6 @@
 import random
 
+""" Random Numbers """
 class RandomNumbers():
 
     def __init__():
